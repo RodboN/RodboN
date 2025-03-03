@@ -3,7 +3,7 @@
 Eu coloquei algumas ideias para voces completarem e vocês terão que adicionar mais uma seção de subtítulo e mais duas curiosidades sobre a vida de vocês-->
 ## Quem sou eu?
 - 🧑‍🎓 Universidade Federal de Juiz de Fora.<!-- coloque onde vc estuda-->
-- 🚀🤖 Atualmente sou mebro da equie de competição de robótica da universidade e estou no processo de trainee da equipe de foquetemodelismo!<!-- mostre que vc faz parte da supernova -->
+- 🚀🤖 Atualmente sou mebro da `equie de competição de robótica` da universidade e estou no processo de trainee da `equipe de foquetemodelismo`!<!-- mostre que vc faz parte da supernova -->
 - 📫 [Meu contato!](mailto:bon.rodrigo@estudante.ufjf.br)<!-- coloque seu e-mail por meio de um link -->
 - 🛰️ Minha vaga pretendida é para o Núcleo de Satélites.
 
