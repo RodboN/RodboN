@@ -10,12 +10,12 @@ Eu coloquei algumas ideias para voces completarem e vocês terão que adicionar 
 <!-- Coloque aqui mais um item na lista de aprensentação -->
 ## Minha trajetória com programação:
 <!-- coloque aqui um testo bem curto sobre como vc começou a programar -->
-Comecei na programação quando fiz a matéria de algoritmos I, na faculdade, algum tempo depois me tornei membro na área de programação da categoria de Mini Sumô da equipe de robótica da universidade, onde atuo até hoje.
+- [x] Comecei na programação quando fiz a matéria de algoritmos I, na faculdade, algum tempo depois me tornei membro na área de programação da categoria de Mini Sumô da equipe de robótica da universidade, onde atuo até hoje.
 
 ## Meus três maiores sonhos profissionais
 <!-- você vai ter que completar a sintaxe da lista ordenada para essa seção -->
-1. Não sei 1.
-2. Não sei 2.
-3. Não sei 3.
+- [ ] Não sei;
+- [x] Não sei;
+- [ ] Não sei;
 
 <!-- Agora adiciona mais uma seção com um título secundário -->
